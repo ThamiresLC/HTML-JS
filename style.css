@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(140, 242, 255);
+}
+
+header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white
+}
+
+section{
+    padding: 3%;
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    border-radius: 5%;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.221);
+}
+
+div{
+    text-align: center;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+
+}
+
+footer{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white
+}
